@@ -3,7 +3,7 @@
 
 **Prayas-**  
 Kathmanu Engineering College
-IOE Tribhuvan University 
+(IOE / Tribhuvan University) 
 
 — Department of Computer Engineering  
 
