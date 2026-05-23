@@ -1,0 +1,31 @@
+name: Check Commit Message
+
+on:
+  push:
+    branches-ignore:
+      - main
+
+jobs:
+  check-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Skip if team lead
+        if: github.actor == 'Prayas-10'
+        run: echo "✅ Team lead — skipped"
+
+      - name: Check format
+        if: github.actor != 'Prayas-10'
+        run: |
+          git log origin/main..HEAD --format="%s" | while read msg; do
+            if ! echo "$msg" | grep -qE "^\[.+\] .+"; then
+              echo "❌ Bad commit message: $msg"
+              echo "   Required: [module] description"
+              echo "   Example:  [game] add main menu"
+              exit 1
+            fi
+          done
+          echo "✅ All messages valid"
