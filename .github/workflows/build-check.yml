@@ -15,11 +15,11 @@ jobs:
         run: sudo apt-get install -y g++
 
       - name: Skip if team lead
-        if: github.actor == 'Prayas-10'
+        if: github.actor == 'Xenos-10'
         run: echo "✅ Team lead — build check skipped"
 
       - name: Compile
-        if: github.actor != 'Prayas-10'
+        if: github.actor != 'Xenos-10'
         run: |
           g++ src/*.cpp -I include -o game
           echo "✅ Compiled successfully"
