@@ -1,1 +1,16 @@
+Core of an RPG
 
+  play as a protagonist
+  
+  guide their actions through a narrative in a fictional world
+
+Essential elements
+1. character progression and stats   
+  -  levels and Exps: get stronger by completing quests defeating enemies, - level up
+  -  stats and attributes: character's power, weakness and success rate in different situations
+
+2. A Player-Driven Narrative
+  -  Choices and Consequences: story that responds to decision, for eg. killing or sparing a                                    character,  which impacts the outcome of the game.
+
+3. 
+  
