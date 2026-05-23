@@ -1,0 +1,21 @@
+# Compiled output
+*.exe
+*.o
+*.obj
+*.out
+
+# Save files
+*.txt.save
+game_save.txt
+
+# VS Code personal settings
+.vscode/settings.json
+.vscode/launch.json
+
+# Windows junk
+Thumbs.db
+desktop.ini
+
+# Build folders
+build/
+bin/
