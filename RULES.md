@@ -95,16 +95,17 @@ aaa
 
 ---
 
-## 4. File Ownership — Touch Only Yours
-| File | Owner |
-|------|-------|
-| TBD | Rupesh |
-| TBD | Pranjal |
-| TBD | Prasanna |
-| TBD | Prasanna |
-| TBD | Udison |
-| TBD | Udison |
-| TBD | Saroj |
+**Your module tags:**
+| Tag | Who uses it |
+|-----|------------|
+| `[game]` | Rupesh |
+| `[battle]` | TBD |
+| `[player]` | TBD |
+| `[enemy]` | TBD |
+| `[ui]` | TBD |
+| `[inv]` | TBD |
+| `[docs]` | Anyone |
+| `[config]` | Rupesh only |
 
 **Never touch someone else's file. Ever.**
 
