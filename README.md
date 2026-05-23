@@ -25,10 +25,10 @@ the valley.
 |          Name           |   Roll No    | Module |
 |-------------------------|--------------|--------|
 | Rupesh Joshi            | KAT082BCT060 |  TBD   |
-| Pranjal Khanal          | KAT082BCT060 |  TBD   |
-| Saroj Thakur            | KAT082BCT060 |  TBD   |
-| Prasanna Gurung         | KAT082BCT060 |  TBD   |
-| Udison Mulmi Shrestha   | KAT082BCT060 |  TBD   |
+| Pranjal Khanal          | KAT082BCT049 |  TBD   |
+| Saroj Thakur            | KAT082BCT070 |  TBD   |
+| Prasanna Gurung         | KAT082BCT051 |  TBD   |
+| Udison Mulmi Shrestha   | KAT082BCT088 |  TBD   |
 
 ---
 
