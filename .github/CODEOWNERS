@@ -1,0 +1,8 @@
+# Team Lead owns everything by default
+*                           @Xenos-10
+
+# Config and repo files — Rupesh only
+/.github/                   @Xenos-10
+/.gitignore                 @Xenos-10
+/README.md                  @Xenos-10
+/RULES.md                   @Xenos-10
