@@ -34,7 +34,7 @@ the valley.
 
 ## Build
 ```bash
-g++ src/*.cpp -I include -o game.exe
+yet to be made
 ```
 
 ---
