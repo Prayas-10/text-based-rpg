@@ -12,5 +12,4 @@ Essential elements
 2. A Player-Driven Narrative
   -  Choices and Consequences: story that responds to decision, for eg. killing or sparing a                                    character,  which impacts the outcome of the game.
 
-3. 
   
