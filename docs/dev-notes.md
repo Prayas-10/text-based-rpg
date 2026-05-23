@@ -46,3 +46,9 @@
   - Team and project info
 - #### .gitignore
   - prevent pushing unwanted file types
+
+
+---
+
+## Second Meeting (2083-02-16)
+- TBD
