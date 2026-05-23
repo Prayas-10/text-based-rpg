@@ -1,2 +1,2 @@
 # text-based-rpg
-priject of cpp
+project of cpp
