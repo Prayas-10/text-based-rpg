@@ -33,3 +33,4 @@
   - inventory.cpp&emsp;&emsp;&emsp;&emsp;(store player items, add and remove items, use item, display and hide item, check item)
   - item.cpp&emsp;&emsp;&emsp;&emsp;(item name, effects, quantity, description, class, rarity)
   - ui.cpp&emsp;&emsp;&emsp;&emsp;(text colour, visual effects, print bars of hp and xp, nav bar, main game screen, opening screen, gameplay and combat screen, level up effects, victory and defeat effects, game completion screen)
+  - tutorial.cpp&emsp;&emsp;&emsp;&emsp;(tutorial explaining controls and mechaisms)
