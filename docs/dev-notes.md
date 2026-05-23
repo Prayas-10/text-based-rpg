@@ -1,6 +1,6 @@
 # Dev Notes — Prayas Team
 
-## 2083-02-09
+## First Meeting (2083-02-09)
 - First meeting
 - Github Setup
 - Organization created as "Prayas-10"
@@ -16,6 +16,12 @@
 ### Files and their Elements as of 2083-1-02-09
 - #### .github
   - PULL_REQUEST_TEMPLATE.md (pull request template)
+  - CODEOWNERS (shows who is responsible for which part)
+  - ##### ISSUE TEMPLATE
+    - tast.md (tells the question to be answered each commit)
+  - ##### workflows
+    - build-check.yml (builds everything when pushed into github)
+    - commit-check.yml (checks commit format in each commit)
 - #### docs
   - storyline.txt&emsp;&emsp;&emsp;&emsp;(plain storyline)
   - setting.txt&emsp;&emsp;&emsp;&emsp;(Time period, Initial building and storyflow elements)
@@ -34,3 +40,9 @@
   - item.cpp&emsp;&emsp;&emsp;&emsp;(item name, effects, quantity, description, class, rarity)
   - ui.cpp&emsp;&emsp;&emsp;&emsp;(text colour, visual effects, print bars of hp and xp, nav bar, main game screen, opening screen, gameplay and combat screen, level up effects, victory and defeat effects, game completion screen)
   - tutorial.cpp&emsp;&emsp;&emsp;&emsp;(tutorial explaining controls and mechaisms)
+- #### RULES.md
+  - Rules to be followed
+- #### README.md
+  - Team and project info
+- #### .gitignore
+  - prevent pushing unwanted file types
