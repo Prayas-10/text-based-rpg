@@ -1,5 +1,5 @@
 # Prayas — Team Coding Rules
-### text-based-rpg | IOE TU | Year I Sem II
+### text-based-rpg | KECKTM (IOE TU) | Year I Sem II
 
 ---
 
