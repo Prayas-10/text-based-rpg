@@ -61,5 +61,21 @@
 
 ---
 
+ ## Rupesh (2083-02-10)
+  ### Files Added
+  - constants.h
+  - enemy.h
+  - battlesystem.h
+  - inventory.h
+  - items.h 
+  - map.h
+  - player.h
+  - tutorial.h
+  - ui.h
+  <br><br>
+  ***Stub code added to all files in include folder and src folder***
+
+  ---
+
 ## Second Meeting (2083-02-16)
-- TBD
+***TBD***

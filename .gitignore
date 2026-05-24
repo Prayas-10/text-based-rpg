@@ -19,3 +19,6 @@ desktop.ini
 # Build folders
 build/
 bin/
+
+# Json files
+.vscode/settings.json

@@ -1,0 +1,31 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Prativindhya",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "src/main.cpp",
+                "src/game.cpp",
+                "src/map.cpp",
+                "src/player.cpp",
+                "src/enemy.cpp",
+                "src/battlesystem.cpp",
+                "src/inventory.cpp",
+                "src/item.cpp",
+                "src/ui.cpp",
+                "src/tutorial.cpp",
+                "-I", "include",
+                "-o", "prativindhya.exe",
+                "-lwinmm",
+                "-static"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"]
+        }
+    ]
+}
