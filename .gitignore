@@ -20,5 +20,3 @@ desktop.ini
 build/
 bin/
 
-# Json files
-.vscode/settings.json
