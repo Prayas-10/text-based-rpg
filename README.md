@@ -41,7 +41,7 @@ yet to be made
 
 ## Tech Stack
 - Language: C++
-- IDE: VS Code / CODE::BLOCKS
+- IDE: Visual Studio Code / Code::Blocks
 - Libraries: Standard C++ / windows.h / conio.h
 - Compiler: g++ (MinGW)
 - OS: Windows
