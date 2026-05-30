@@ -24,11 +24,11 @@ the valley.
 ## Team
 |          Name           |   Roll No    | Module |
 |-------------------------|--------------|--------|
-| Rupesh Joshi            | KAT082BCT060 |  TBD   |
-| Pranjal Khanal          | KAT082BCT049 |  TBD   |
+| Rupesh Joshi            | KAT082BCT060 |  main.cpp, game.cpp, player.cpp |
+| Pranjal Khanal          | KAT082BCT049 |  ui.cpp, prologue.cpp  |
 | Saroj Thakur            | KAT082BCT070 |  TBD   |
 | Prasanna Gurung         | KAT082BCT051 |  TBD   |
-| Udison Mulmi Shrestha   | KAT082BCT088 |  TBD   |
+| Udison Mulmi Shrestha   | KAT082BCT088 |  map.cpp |
 
 ---
 
