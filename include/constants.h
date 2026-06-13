@@ -10,6 +10,7 @@
 #include <windows.h>
 #include <conio.h>
 #include <map>
+#include <limits>
 
 using namespace std;
 
@@ -40,5 +41,13 @@ class Player;
 class Enemy;
 class Map;
 class Game;
+
+
+const string SAVE_FILE     = "save.dat";
+const string AUTOSAVE_FILE = "autosave.dat";
+const int    AUTOSAVE_INTERVAL = 300; // seconds
+
+const string KAJI_NAME = "The Kaji";
+
 
 #endif

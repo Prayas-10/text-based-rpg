@@ -1,4 +1,4 @@
-
+#include "game.h"
 #include "enemy.h"
 
 Enemy::Enemy(string n, string d, int h, int a,

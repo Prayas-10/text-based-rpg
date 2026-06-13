@@ -1,7 +1,7 @@
 #ifndef BATTLESYSTEM_H
 #define BATTLESYSTEM_H
 
-#include "game.h"
+
 #include "player.h"
 #include "enemy.h"
 #include "map.h"

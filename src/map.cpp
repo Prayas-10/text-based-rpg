@@ -1,4 +1,4 @@
-
+#include "game.h"
 #include "map.h"
 
 NPC::NPC(string n, string d) {}

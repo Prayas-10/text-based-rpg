@@ -1,7 +1,7 @@
 #ifndef ENEMY_H
 #define ENEMY_H
 
-#include "game.h"
+
 #include "player.h"
 #include "constants.h"
 
