@@ -1,7 +1,7 @@
 #ifndef ITEM_H
 #define ITEM_H
 
-#include "game.h"
+
 #include "constants.h"
 
 class Item {

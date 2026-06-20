@@ -78,4 +78,11 @@
   ---
 
 ## Second Meeting (2083-02-16)
-***TBD***
+- Prologue decided
+- Scene one decided
+- First division of modules
+| Name | Modules |
+|------|---------|
+|Rupesh Joshi|main.cpp, game.cpp, player.cpp|
+|Pranjal Khanal|ui.cpp, prologue.cpp|
+|Udison Mulmi Shrestha|map.cpp|

@@ -104,4 +104,8 @@ std::vector<Enemy> loadEnemies(
     }
 
     return enemies;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ebafdf1df527c32ba6f46904effcbc556b1f690c
