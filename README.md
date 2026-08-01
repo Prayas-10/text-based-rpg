@@ -26,8 +26,8 @@ the valley.
 |-------------------------|--------------|--------|
 | Rupesh Joshi            | KAT082BCT060 |  main.cpp, game.cpp, player.cpp |
 | Pranjal Khanal          | KAT082BCT049 |  ui.cpp, prologue.cpp  |
-| Saroj Thakur            | KAT082BCT070 |  TBD   |
-| Prasanna Gurung         | KAT082BCT051 |  TBD   |
+| Saroj Thakur            | KAT082BCT070 |  battlesystem.cpp   |
+| Prasanna Gurung         | KAT082BCT051 |  inventory.cpp, items.cpp   |
 | Udison Mulmi Shrestha   | KAT082BCT088 |  map.cpp |
 
 ---
@@ -41,7 +41,7 @@ yet to be made
 
 ## Tech Stack
 - Language: C++
-- IDE: Visual Studio Code / Code::Blocks
+- IDE: Visual Studio Code / Code::Blocks / Visual Studio 2026 Community
 - Libraries: Standard C++ / windows.h / conio.h
 - Compiler: g++ (MinGW)
 - OS: Windows
