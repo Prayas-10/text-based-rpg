@@ -1,0 +1,10 @@
+{
+  "achievements": [
+    {
+      "id": "viva_espana",
+      "name": "¡Viva España!",
+      "condition": "Defeat Ancient Guardian after taking fewer than 3 enemy hits.",
+      "rewardItemId": 17
+    }
+  ]
+}

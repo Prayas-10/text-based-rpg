@@ -1,0 +1,63 @@
+﻿{
+  "attacks": [
+    {
+      "id": 1,
+      "name": "Heavy Attack",
+      "description": "A powerful attack that deals heavy damage.",
+      "power": 20,
+      "mpCost": 0
+    },
+    {
+      "id": 2,
+      "name": "Light Attack",
+      "description": "A balanced attack with moderate damage.",
+      "power": 12,
+      "mpCost": 0
+    },
+    {
+      "id": 3,
+      "name": "Quick Attack",
+      "description": "A fast attack with reduced damage.",
+      "power": 8,
+      "mpCost": 0
+    },
+    {
+      "id": 4,
+      "name": "Special Attack",
+      "description": "A powerful special technique.",
+      "power": 30,
+      "mpCost": 0
+    }
+  ],
+  "spells": [
+    {
+      "id": 101,
+      "name": "Ember",
+      "description": "Uses burnt coal.",
+      "power": 10,
+      "mpCost": 20
+    },
+    {
+      "id": 102,
+      "name": "Poison Cloud",
+      "description": "Creates a poison cloud",
+      "power": 30,
+      "mpCost": 20
+    },
+    {
+      "id": 103,
+      "name": "Torrent",
+      "description": "Summons a water torrent",
+      "power": 40,
+      "mpCost": 50
+    },
+    {
+      "id": 104,
+      "name": "Solar Beam",
+      "description": "Uses the power of sun to deal heavy damage",
+      "power": 100,
+      "mpCost": 60
+    }
+  ]
+}
+

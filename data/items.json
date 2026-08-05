@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "id": 1, "name": "Khukuri", "category": "Weapon", "effectType": "none", "power": 8 },
+    { "id": 2, "name": "Khadga", "category": "Weapon", "effectType": "none", "power": 14 },
+    { "id": 3, "name": "Kavach", "category": "Armor", "effectType": "none", "power": 6 },
+    { "id": 4, "name": "Healing Herb", "category": "Consumable", "effectType": "heal_hp", "power": 25 },
+    { "id": 5, "name": "Bandage", "category": "Consumable", "effectType": "heal_hp", "power": 15 },
+    { "id": 6, "name": "Antidote", "category": "Consumable", "effectType": "cure_poison", "power": 0 },
+    { "id": 7, "name": "Stamina Herb", "category": "Consumable", "effectType": "restore_mp", "power": 15 },
+    { "id": 8, "name": "Health Potion", "category": "Consumable", "effectType": "heal_hp", "power": 50 },
+    { "id": 9, "name": "Mana Potion", "category": "Consumable", "effectType": "restore_mp", "power": 35 },
+    { "id": 10, "name": "Boar Tusk", "category": "Material", "effectType": "none", "power": 0 },
+    { "id": 11, "name": "Bandit Token", "category": "Material", "effectType": "none", "power": 0 },
+    { "id": 12, "name": "Gharial Scale", "category": "Material", "effectType": "none", "power": 0 },
+    { "id": 13, "name": "Tiger Claw", "category": "Material", "effectType": "none", "power": 0 },
+    { "id": 14, "name": "Shadow Fang", "category": "Material", "effectType": "none", "power": 0 },
+    { "id": 15, "name": "Serpent Scale", "category": "Material", "effectType": "none", "power": 0 },
+    { "id": 16, "name": "Ancient Core", "category": "Material", "effectType": "none", "power": 0 },
+    { "id": 17, "name": "Copa del Mundail 2026 espana", "category": "Achievement", "effectType": "none", "power": 0 },
+    { "id": 18, "name": "Shield", "category": "Armor", "effectType": "none", "power": 5 },
+    { "id": 19, "name": "Sharpened Sword", "category": "Material", "effectType": "none", "power": 0 },
+    { "id": 20, "name": "Repaired Armor", "category": "Material", "effectType": "none", "power": 0 },
+    { "id": 21, "name": "Armor Upgrade", "category": "Armor", "effectType": "none", "power": 8 },
+    { "id": 22, "name": "Provisions", "category": "Consumable", "effectType": "heal_hp", "power": 10 },
+    { "id": 23, "name": "Travel Clothes", "category": "Material", "effectType": "none", "power": 0 },
+    { "id": 24, "name": "Torch", "category": "Material", "effectType": "none", "power": 0 },
+    { "id": 25, "name": "Dharmadeva's Blade", "category": "Weapon", "effectType": "none", "power": 20 }
+  ]
+}

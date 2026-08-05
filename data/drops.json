@@ -1,0 +1,11 @@
+{
+  "drops": [
+    { "enemyId": 1, "enemy": "Wild Boar", "xp": 90, "gold": 15, "items": [{"itemId":10,"quantity":3},{"itemId":4,"quantity":1}] },
+    { "enemyId": 2, "enemy": "Bandit", "xp": 140, "gold": 30, "items": [{"itemId":11,"quantity":3},{"itemId":5,"quantity":1}] },
+    { "enemyId": 3, "enemy": "River Gharial", "xp": 210, "gold": 45, "items": [{"itemId":12,"quantity":4},{"itemId":6,"quantity":1}] },
+    { "enemyId": 4, "enemy": "Shadow Wolf", "xp": 300, "gold": 65, "items": [{"itemId":14,"quantity":4},{"itemId":7,"quantity":1}] },
+    { "enemyId": 5, "enemy": "Cave Serpent", "xp": 430, "gold": 90, "items": [{"itemId":15,"quantity":5},{"itemId":8,"quantity":1}] },
+    { "enemyId": 6, "enemy": "Guardian Tiger", "xp": 650, "gold": 120, "items": [{"itemId":13,"quantity":5},{"itemId":8,"quantity":1},{"itemId":9,"quantity":1}] },
+    { "enemyId": 9, "enemy": "Ancient Guardian", "xp": 1600, "gold": 500, "items": [{"itemId":16,"quantity":8}] }
+  ]
+}
