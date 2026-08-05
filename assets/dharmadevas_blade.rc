@@ -1,0 +1,7 @@
+#include <windows.h>
+
+#define IDI_DHARMADEVAS_BLADE 101
+
+IDI_DHARMADEVAS_BLADE ICON "dharmadevas_blade.ico"
+
+1 RT_MANIFEST "dharmadevas_blade.manifest"
