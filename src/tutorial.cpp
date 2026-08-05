@@ -1,4 +1,9 @@
 #include "tutorial.h"
-#include "game.h"
+#include "ui.h"
 
-void runTutorial() {}
+void runTutorial()
+{
+    clearScreen();
+    typewriter("Tutorial");
+    waitForEnter();
+}
