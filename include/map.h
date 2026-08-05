@@ -1,36 +1,12 @@
-#ifndef MAP_H
-#define MAP_H
-
-
-#include "enemy.h"
-#include "constants.h"
-
-struct NPC {
-    string name;
-    string dialogue;
-    bool hasSpoken;
-    NPC(string n, string d);
-};
-
-struct Area {
-    int id;
-    string name;
-    string description;
-    string atmosphereLine;
-    Enemy* enemy;
-    NPC* npc;
-    int nextAreaId;
-    bool isLocked;
-    bool enemyDefeated;
-    Area();
-};
-
+#pragma once
+#include <string>
+#include <vector>
+#include <algorithm>
 class Map {
-private:
-    Area areas[12];
+    std::string location = "Gorkha Palace";
+    std::vector<std::string> discovered{"Gorkha Palace"};
 public:
-    Map();
-    Area& getArea(int id);
+    const std::string& getLocation() const { return location; }
+    void setLocation(const std::string& value) { location=value; if(std::find(discovered.begin(),discovered.end(),value)==discovered.end()) discovered.push_back(value); }
+    const std::vector<std::string>& getDiscoveredLocations() const { return discovered; }
 };
-
-#endif
